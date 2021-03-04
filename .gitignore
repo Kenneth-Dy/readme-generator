@@ -1,1 +1,4 @@
-node_modules
+#Makes sure to ignore node modules folder and MacOS file
+
+node_modules/
+.DS_Store/

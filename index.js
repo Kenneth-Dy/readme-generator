@@ -1,3 +1,12 @@
+const inquirer = require('inquirer')
+
+
+const inquirer.prompt = [
+  {
+    
+  }
+]
+
 // array of questions for user
 const questions = [
 
