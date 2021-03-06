@@ -11,6 +11,7 @@ It will auto generate a professional readme file based on user input from the co
 [Usage](#Usage)
 [License](#License)
 [Contributing](#Contributing)
+[Tests](#Tests)
 [Questions](#Questions)
       
 ##Installation
