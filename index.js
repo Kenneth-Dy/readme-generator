@@ -76,13 +76,13 @@ function init() {
       }
 
       let read = `#${res.title}
-##Description
+## Description
 
 ![license](${licenseImage})
 
 ${res.description}
       
-##Table of Contents
+## Table of Contents
 
 [Installation](#Installation)
 [Usage](#Usage)
@@ -91,27 +91,27 @@ ${res.description}
 [Tests](#Tests)
 [Questions](#Questions)
       
-##Installation
+## Installation
 
 ${res.install}
         
-##Usage
+## Usage
 
 ${res.usage}
 
-##License
+## License
 
 ${licenseText}
 
-##Contributing
+## Contributing
 
 ${res.contribution}
 
-##Tests
+## Tests
 
 ${res.test}
 
-##Questions
+## Questions
 
 GitHub account:
 [${res.username}](https://github.com/${res.username})

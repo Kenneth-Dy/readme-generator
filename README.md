@@ -1,11 +1,11 @@
-#README generator
-##Description
+# README generator
+## Description
 
 ![license](https://img.shields.io/badge/license-GNU%20GPLv3-blue)
 
 It will auto generate a professional readme file based on user input from the command line
       
-##Table of Contents
+## Table of Contents
 
 [Installation](#Installation)
 [Usage](#Usage)
@@ -14,23 +14,23 @@ It will auto generate a professional readme file based on user input from the co
 [Tests](#Tests)
 [Questions](#Questions)
       
-##Installation
+## Installation
 
 To install simply clone the repo and use your preferred text editor to install the node files using node.js syntax.
         
-##Usage
+## Usage
 
 To use the project simply run it on the command line with node index.js
 
-##License
+## License
 
 Refer to the link for the full  license information: [GNU GPLv3](https://choosealicense.com/licenses/gpl-3.0/)
 
-##Contributing
+## Contributing
 
 To contribute simply contact me. I put my email in the questions section.
 
-##Questions
+## Questions
 
 GitHub account:
 [Kenneth-Dy](https://github.com/Kenneth-Dy)
